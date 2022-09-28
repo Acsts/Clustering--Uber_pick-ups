@@ -1,5 +1,9 @@
 # Unsupervised ML for clustering : Uber pickups in NYC
 
+## Jedha Fullstack Certification
+- email : antoine.costes@live.fr
+- Video link : https://share.vidyard.com/watch/1nfKZvDSiWkrQgkVrrgE5s?
+
 ## Goal of the project
 
 In order to **advise Uber drivers on where to be at which time**, the goal of this project is to **identify "hot-zones" from Uber pick-up requests data**, and display theses zones on a map.
