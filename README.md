@@ -1,8 +1,10 @@
 # Unsupervised ML for clustering : Uber pickups in NYC
 
-## Jedha Fullstack Certification
-- email : antoine.costes@live.fr
-- Video link : https://share.vidyard.com/watch/1nfKZvDSiWkrQgkVrrgE5s?
+*This project (among others) has been submitted for my Jedha Data Fullstack program certification*
+
+## Video Presentation
+
+**Checkout the 10min project presentation video (in French) here: https://share.vidyard.com/watch/1nfKZvDSiWkrQgkVrrgE5s?**
 
 ## Goal of the project
 
